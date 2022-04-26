@@ -10,3 +10,6 @@ sudo apt-get install python3-dev
 https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 python -m pip install --upgrade pip
+
+# o usar este comando
+sudo apt-get install python3-pip -y
