@@ -4,6 +4,7 @@ sudo apt-get dist-upgrade -y
 sudo reboot
 sudo apt-get install python3-distutils -y
 sudo apt-get install python3-dev -y
+sudo apt-get install git -y
 
 
 # PIP3 
@@ -15,3 +16,4 @@ sudo apt install python3-pip -y
 #agregar path
 export PATH="$HOME/.local/bin:$PATH"
 #ver path echo $PATH
+
