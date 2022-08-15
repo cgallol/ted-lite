@@ -27,7 +27,7 @@ while True:
 
 
 #  ejemplo ads1115
-#  @https://docs.circuitpython.org/projects/ads1x15/en/latest/examples.html"
+#   https://docs.circuitpython.org/projects/ads1x15/en/latest/examples.html
 
 #  Explicacion
-#  "https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/python-circuitpython"
+#   https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/python-circuitpython
