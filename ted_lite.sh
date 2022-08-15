@@ -6,6 +6,7 @@ sudo apt-get install freetds-bin
 sudo apt-get install python3-pyodbc
 sudo apt-get install i2c-tools -y
 sudo apt-get install python3-gpiozero
+sudo apt-get install mariadb-server -y
 
 sudo pip3 install mysql-connector-python
 sudo pip3 install adafruit-ads1x15
