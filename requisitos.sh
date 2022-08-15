@@ -14,7 +14,7 @@ sudo apt-get install python3-smbus
 
 # PIP3 
 wget https://bootstrap.pypa.io/get-pip.py
-python get-pip.py
+sudo python get-pip.py
 sudo apt install python3-pip -y
     # o usar este comando
     sudo apt-get install python3-pip -y
