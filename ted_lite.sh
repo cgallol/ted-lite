@@ -8,8 +8,11 @@ sudo apt-get install i2c-tools -y
 sudo apt install python3-gpiozero
 
 sudo pip3 install mysql-connector-python
-
 sudo pip3 install adafruit-ads1x15
+
+
+
+
 
 # sudo pip3 install pyodbc  # no funciono
 sudo pip3 install numpy
