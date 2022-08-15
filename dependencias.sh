@@ -9,10 +9,9 @@ sudo apt-get install python3-dev -y
 # PIP3 
 wget https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
-# o usar este comando
-sudo apt-get install python3-pip -y
-# para actualizar
-python -m pip install --upgrade pip
+sudo apt install python3-pip -y
+    # o usar este comando
+    sudo apt-get install python3-pip -y
 #agregar path
 export PATH="$HOME/.local/bin:$PATH"
 #ver path echo $PATH
