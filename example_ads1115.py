@@ -24,3 +24,7 @@ while True:
     print("{:>5}\t{:>5.3f}".format(chan.value, chan.voltage))
     time.sleep(0.5)
 
+
+
+# ejemplo ads1115
+#  https://docs.circuitpython.org/projects/ads1x15/en/latest/examples.html
