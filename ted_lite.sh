@@ -9,6 +9,7 @@ sudo apt-get install python3-gpiozero
 sudo apt-get install mariadb-server -y
 sudo apt-get install libqmi-utils -y
 sudo apt-get install udhcpc
+sudo apt-get install python3-rpi.gpio
 
 sudo pip3 install adafruit-ads1x15
 sudo pip3 install python-decouple
