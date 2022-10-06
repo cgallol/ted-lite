@@ -18,7 +18,11 @@ sudo python get-pip.py
 # o usar el siguiente comando
 sudo apt-get install python3-pip -y
 
-#agregar path
+#agregar path ver en "cd .local/bin"
 export PATH="$HOME/.local/bin:$PATH"
 #ver path: echo $PATH
 
+
+
+# si necesita usar virtualenv
+sudo apt install python3-virtualenv
