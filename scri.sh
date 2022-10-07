@@ -24,5 +24,6 @@ export PATH="$HOME/.local/bin:$PATH"
 
 
 
-# si necesita usar virtualenv
-sudo apt install python3-virtualenv
+# si necesita usar entorno virtual instalar
+sudo apt install python3-venv
+
