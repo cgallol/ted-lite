@@ -10,7 +10,7 @@ sudo apt-get install mariadb-server -y
 sudo apt-get install libqmi-utils -y
 sudo apt-get install udhcpc
 sudo apt-get install python3-rpi.gpio o sudo pip3 install --ignore-installed rpi.gpio
-sudo apt-get install python3-scipy
+sudo apt-get install python3-scipy -y
 
 
 sudo pip3 install adafruit-ads1x15
