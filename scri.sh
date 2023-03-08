@@ -6,8 +6,8 @@ sudo apt-get install python3-distutils -y
 sudo apt-get install python3-dev -y
 sudo apt-get install git -y
 
-sudo apt-get install build-essential
-sudo apt-get install python3-smbus
+sudo apt-get install build-essential -y
+sudo apt-get install python3-smbus -y
 
 
 
