@@ -13,7 +13,7 @@ sudo apt-get install python3-rpi.gpio o sudo pip3 install --ignore-installed rpi
 sudo apt-get install python3-scipy -y
 
 
-sudo pip3 install adafruit-ads1x15
+sudo pip3 install adafruit-ads1x15   // pip3 install adafruit-circuitpython-ads1x15(creo que esto es el vigente verificar)
 sudo pip3 install python-decouple
 sudo pip3 install mysql-connector-python==8.0.29
 
